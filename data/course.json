@@ -1,0 +1,51 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Structural Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "07d4f055-5edf-ebf2-c247-7bbf2d19dd91"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Engineering Design and Rapid Prototyping",
+  "course_description": "This course provides students with an opportunity to conceive, design and implement a product, using rapid prototyping methods and computer-aid tools. The first of two phases challenges each student team to meet a set of design requirements and constraints for a structural component. A course of iteration, fabrication, and validation completes this manual design cycle. During the second phase, each team conducts design optimization using structural analysis software, with their phase one prototype as a baseline.\n\nAcknowledgements\n----------------\n\nThis course is made possible thanks to a grant by the alumni sponsored Teaching and Education Enhancement Program (Class of '51 Fund for Excellence in Education, Class of '55 Fund for Excellence in Teaching, Class of '72 Fund for Educational Innovation). The instructors gratefully acknowledge the financial support. The course was approved by the Undergraduate Committee of the MIT Department of Aeronautics and Astronautics in 2003. The instructors thank Prof. Manuel Martinez-Sanchez and the committee members for their support and suggestions.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.810",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Demonstration Videos",
+    "Design Assignments with Examples",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
